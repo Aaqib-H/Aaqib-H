@@ -1,14 +1,21 @@
-<h1>Hi, I'm Aaqib! 👋<br/><a href="https://www.linkedin.com/in/aaqib-h/">Cybersecurity Professional</a> and <a href="https://github.com/Aaqib-H">Software Engineer</a></h1>
+<h1>Hey, I'm Aaqib 👋<br/><a href="https://www.linkedin.com/in/aaqib-h/">Cybersecurity Professional</a> and <a href="https://github.com/Aaqib-H">Software Engineer</a></h1>
+
+**`Digital Guardian`**
+
+I'm a cybersecurity professional securing the digital landscape one step at a time. With diverse certifications and hands-on experience in network security, incident response and threat detection, I'm shaping my path in the cybersecurity landscape. This is where I record my journey, sharing projects, insights and growth along the way.
 
 <h2>🛠️ My Tech Stack: </h2>
+
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
+<img align="left" alt="Powershell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br>
 <br>
 
@@ -35,7 +42,7 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2>👨‍💻 Software Projects </h2>
+<h2>👨‍💻</> Software Projects </h2>
 
 - <b>Java</b>
   - [2D Action RPG Game](https://github.com/Aaqib-H/2D-Action-RPG-Game)
@@ -43,8 +50,8 @@
     
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="24px" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" />][instagram]
 
 [instagram]: https://www.instagram.com/aaqib.exe/
 [linkedin]: https://linkedin.com/in/aaqib-h
