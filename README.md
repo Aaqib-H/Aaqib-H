@@ -2,26 +2,18 @@
 
 **`Digital Guardian`**
 
-I'm a cybersecurity professional securing the digital landscape one step at a time. With diverse certifications and hands-on experience in network security, incident response and threat detection, I'm shaping my path in the cybersecurity landscape. This is where I record my journey, sharing projects, insights and growth along the way.
+I'm a cybersecurity professional up and coming from a software engineering background, securing the digital landscape one step at a time. With diverse certifications and hands-on experience across network security, incident response and threat detection, I'm shaping my path in the cybersecurity landscape. This is where I record my journey, sharing projects, certifications and growth along the way.
 
 <h2>🛠️ My Tech Stack: </h2>
 
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
-<img align="left" alt="Powershell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<br>
-<br>
+[![Linux, Windows, Powershell, Bash, Python, Java, MySQL, JavaScript, HTML, CSS](https://skillicons.dev/icons?i=linux,windows,powershell,bash,python,java,mysql,js,html,css)](https://skillicons.dev)
 
-<h2>🌱 I'm currently learning: </h2>
-
-- CompTIA Security+ (Expected Nov. 2024)
+<div id="learning">
+  <h2 class="learning">🚧 Currently learning: </h2>
+  <ul>
+    <li>CompTIA Security+ (Expected Nov. 2024)</li>
+  </ul>
+</div>
 
 <div id="certifications">
   <h2 class="certifications">🧾 Certifications </h2>
@@ -34,27 +26,48 @@ I'm a cybersecurity professional securing the digital landscape one step at a ti
   </ul>
 </div>
 
-<h2>🔐 Cybersecurity Projects </h2>
+<div id="cyber_projects">
+  <h2 class="cyber_projects">🔐 Cybersecurity Projects </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+  Explore the repositories below to see some of my work in action, from security audits to network analysis projects and more.
 
-<h2>👨‍💻</> Software Projects </h2>
+| Repository      | Description                                                                                                                                                        |
+|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **[Incident Response Scripts](https://github.com/YourUsername/Incident-Response-Scripts)** | Collection of scripts for network monitoring and incident response.                                       |
+| **[Network Security Analysis](https://github.com/YourUsername/Network-Security-Analysis)** | Projects focused on packet capturing and threat detection with tools like Wireshark and tcpdump.       |
+| **[Compliance Toolkit](https://github.com/YourUsername/Compliance-Toolkit)** | A set of resources for maintaining data protection and security compliance.                             |
 
-- <b>Java</b>
-  - [2D Action RPG Game](https://github.com/Aaqib-H/2D-Action-RPG-Game)
-  - [Tetris](https://github.com/Aaqib-H/Tetris-in-Java)
+
+## 🎯 **Skill Areas**
+
+| Area                  | Tools & Skills                                                                                               |
+|-----------------------|-------------------------------------------------------------------------------------------------------------|
+| **Networking**        | `TCP/IP`, `Wireshark`, `tcpdump`                                                                            |
+| **Incident Response** | `NIST 800-61`, `Zeek`, `Volatility`, `Magnet RAM Capture`, `Forensics`                                      |
+| **Security Compliance** | `Risk Assessment`, `Data Protection`, `SOC 2`, `ISO 27001`                                               |
+| **General Tools**     | `Python`, `Linux`, `Bash`, `Git`                                                                           |
+
+
+<div id="software_projects">
+  <h2 class="software_projects">👨‍💻 Software Projects </h2>
+  <ul>
+    <li><a href="https://github.com/Aaqib-H/2D-Action-RPG-Game"><b>2D Action RPG Game</b></a></li>
+    <li><a href="https://github.com/Aaqib-H/Tetris-in-Java"><b>Tetris</b></a></li>
+  </ul>
+</div>
     
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="24px" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" />][instagram]
+[![Instagram](https://skillicons.dev/icons?i=instagram)]([https://twitter.com/kshyun28](http://www.instagram.com/aaqib.exe/)) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aaqib-h/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:aaqibhassan10@gmail.com?subject=Hello%20Aaqib,%20From%20Github)
 
-[instagram]: https://www.instagram.com/aaqib.exe/
-[linkedin]: https://linkedin.com/in/aaqib-h
+![Profile Views](https://komarev.com/ghpvc/?username=Aaqib-H&label=Profile%20Views&color=0e75b6&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/Aaqib-H?label=Follow&style=social)
+
+<div align="center">
+  <em>“The question is not if you’ll be hacked, but when.” – ?</em>
+</div>
 
 <!--
 **Aaqib-H/Aaqib-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
