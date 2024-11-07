@@ -1,10 +1,12 @@
-<h1>Hey, I'm Aaqib 👋<br/><a href="https://www.linkedin.com/in/aaqib-h/">Cybersecurity Professional</a> and <a href="https://github.com/Aaqib-H">Software Engineer</a></h1>
+<h1>Hey, I'm Aaqib 👋</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4500&pause=1000&width=810&lines=Cybersecurity+Professional+and+Software+Engineer)](https://git.io/typing-svg)
 
 **`Digital Guardian`**
 
 I'm a cybersecurity professional up and coming from a software engineering background, securing the digital landscape one step at a time. With diverse certifications and hands-on experience across network security, incident response and threat detection, I'm shaping my path in the cybersecurity landscape. This is where I record my journey, sharing projects, certifications and growth along the way.
 
-<h2>🛠️ My Tech Stack: </h2>
+<h2>My Tech Stack: </h2>
 
 [![Linux, Windows, Powershell, Bash, Python, Java, MySQL, JavaScript, HTML, CSS](https://skillicons.dev/icons?i=linux,windows,powershell,bash,python,java,mysql,js,html,css)](https://skillicons.dev)
 
@@ -31,21 +33,23 @@ I'm a cybersecurity professional up and coming from a software engineering backg
 
   Explore the repositories below to see some of my work in action, from security audits to network analysis projects and more.
 
-| Repository      | Description                                                                                                                                                        |
-|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **[Incident Response Scripts](https://github.com/YourUsername/Incident-Response-Scripts)** | Collection of scripts for network monitoring and incident response.                                       |
+| Repository      | Description                                                                                                                                                                       |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **[Incident Response Scripts](https://github.com/YourUsername/Incident-Response-Scripts)** | Collection of scripts for network monitoring and incident response.                                    |
 | **[Network Security Analysis](https://github.com/YourUsername/Network-Security-Analysis)** | Projects focused on packet capturing and threat detection with tools like Wireshark and tcpdump.       |
-| **[Compliance Toolkit](https://github.com/YourUsername/Compliance-Toolkit)** | A set of resources for maintaining data protection and security compliance.                             |
+| **[Compliance Toolkit](https://github.com/YourUsername/Compliance-Toolkit)** | A set of resources for maintaining data protection and security compliance.                                          |
 
 
 ## 🎯 **Skill Areas**
 
-| Area                  | Tools & Skills                                                                                               |
-|-----------------------|-------------------------------------------------------------------------------------------------------------|
-| **Networking**        | `TCP/IP`, `Wireshark`, `tcpdump`                                                                            |
-| **Incident Response** | `NIST 800-61`, `Zeek`, `Volatility`, `Magnet RAM Capture`, `Forensics`                                      |
-| **Security Compliance** | `Risk Assessment`, `Data Protection`, `SOC 2`, `ISO 27001`                                               |
-| **General Tools**     | `Python`, `Linux`, `Bash`, `Git`                                                                           |
+| Area                  | Tools & Skills                                                                                                   |
+|----------------------------|-------------------------------------------------------------------------------------------------------------|
+| **SIEMs**                  | `Splunk`, `Google Chronicle`                                                                                |
+| **Vulnerability Scanners** | `Tenable Nessus`, `QualysGuard`                                                                             |
+| **Networking**             | `TCP/IP`, `OSI`, `Wireshark`, `tcpdump`, `Nmap`                                                             |
+| **Incident Response**      | `NIST 800-61`, `Zeek`, `Volatility`, `Magnet RAM Capture`,                                                  |
+| **Security Compliance**    | `PCI-DSS`, `GDPR`, `ISO 27001`                                                                              |
+| **General Tools**          | `SQL`, `Python`, `Linux`, `Bash`, `Powershell`                                                              |
 
 
 <div id="software_projects">
@@ -63,7 +67,6 @@ I'm a cybersecurity professional up and coming from a software engineering backg
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:aaqibhassan10@gmail.com?subject=Hello%20Aaqib,%20From%20Github)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aaqib-H&label=Profile%20Views&color=0e75b6&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/Aaqib-H?label=Follow&style=social)
 
 <div align="center">
   <em>“The question is not if you’ll be hacked, but when.” – ?</em>
