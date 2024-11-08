@@ -33,23 +33,26 @@ I'm a cybersecurity professional up and coming from a software engineering backg
 
   Explore the repositories below to see some of my work in action, from security audits to network analysis projects and more.
 
-| Repository      | Description                                                                                                                                                                       |
-|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **[Incident Response Scripts](https://github.com/YourUsername/Incident-Response-Scripts)** | Collection of scripts for network monitoring and incident response.                                    |
-| **[Network Security Analysis](https://github.com/YourUsername/Network-Security-Analysis)** | Projects focused on packet capturing and threat detection with tools like Wireshark and tcpdump.       |
-| **[Compliance Toolkit](https://github.com/YourUsername/Compliance-Toolkit)** | A set of resources for maintaining data protection and security compliance.                                          |
+| Repository      | Description                                                                                                                                                                           | Tools Used
+|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------
+| **[Metasploit Penetration Testing](https://github.com/Aaqib-H/Metasploit-Penetration-Testing)** | Vulnerability assessment and exploitation using Metasploit to identify and analyze system weaknesses. | `Metasploit`, `Nmap`, `Linux`, `VMware`
+| **[Network Security Analysis](https://github.com/YourUsername/Network-Security-Analysis)** | Projects focused on packet capturing and threat detection with tools like Wireshark and tcpdump.           |
+| **[Compliance Toolkit](https://github.com/YourUsername/Compliance-Toolkit)** | A set of resources for maintaining data protection and security compliance.                                              |
 
 
 ## 🎯 **Skill Areas**
 
-| Area                  | Tools & Skills                                                                                                   |
-|----------------------------|-------------------------------------------------------------------------------------------------------------|
-| **SIEMs**                  | `Splunk`, `Google Chronicle`                                                                                |
-| **Vulnerability Scanners** | `Tenable Nessus`, `QualysGuard`                                                                             |
-| **Networking**             | `TCP/IP`, `OSI`, `Wireshark`, `tcpdump`, `Nmap`                                                             |
-| **Incident Response**      | `NIST 800-61`, `Zeek`, `Volatility`, `Magnet RAM Capture`,                                                  |
-| **Security Compliance**    | `PCI-DSS`, `GDPR`, `ISO 27001`                                                                              |
-| **General Tools**          | `SQL`, `Python`, `Linux`, `Bash`, `Powershell`                                                              |
+| Area                  | Tools & Skills                                                                      |
+|----------------------------|--------------------------------------------------------------------------------|
+| **SIEMs**                  | `Splunk`, `Google Chronicle`                                                   |
+| **Vulnerability Scanners** | `Tenable Nessus`, `QualysGuard`                                                |
+| **Networking**             | `Wireshark`, `tcpdump`, `Nmap`, `Zeek`                                         |
+| **Incident Response**      | `Volatility`, `Magnet RAM Capture`,                                            |
+| **Operating Systems**      | `Linux`, `Windows`, `VMware`                                                   |
+| **Languages**              | `Python`, `Java`, `SQL`, `JavaScript`, `HTML`, `CSS`                           |
+| **Scripting**              | `Bash`, `Powershell`                                                           |
+| **Security Compliance**    | `PCI-DSS`, `GDPR`, `ISO 27001`                                                 |
+| **Cyber Frameworks**       | `NIST CSF`, `NIST 800-61`                                                      |
 
 
 <div id="software_projects">
