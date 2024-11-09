@@ -45,13 +45,17 @@ I'm a cybersecurity professional up and coming from a software engineering backg
 <div id="cyber_projects">
   <h2 class="cyber_projects">🔐 Cybersecurity Projects </h2>
 
-  Explore the repositories below to see some of my work in action, from security audits to network analysis projects and more.
+Explore the repositories below to see some of my work in action, from security audits to network analysis projects and more.
 
-| Repository      | Description                                                                                                                                                                           | Tools Used
-|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------
-| **[Metasploit Penetration Testing](https://github.com/Aaqib-H/Metasploit-Penetration-Testing)** | Penetration test using Metasploit and Nmap in a controlled environment to identify, exploit, and report vulnerabilities. | `VMware`, `Metasploit`, `Kali Linux`, `Nmap`
-| **[Wireshark Packet Capture](https://github.com/Aaqib-H/Wireshark-Packet-Capture)** | Using Wireshark to capture, filter, and analyze network packets for security monitoring.          | `Wireshark`, `Ubuntu Linux`
-| **[Nmap Network Scanning](https://github.com/Aaqib-H/Nmap-Network-Scanning)** | Network vulnerability assessment using Nmap for host discovery, port scanning, OS detection and auditing to identify potential threats.  | `Nmap`, `Bash`
+- <h3><a href="https://github.com/Aaqib-H/Google-Cybersecurity-Projects">Google Cybersecurity Projects Repository</a></h3>
+
+- <h3>Individual Projects:</h3>
+
+  | Repository      | Description                                                                                                                                                                           | Tools Used
+  |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------
+  | **[Metasploit Penetration Testing](https://github.com/Aaqib-H/Metasploit-Penetration-Testing)** | Penetration test using Metasploit and Nmap in a controlled environment to identify, exploit, and report vulnerabilities. | `VMware`, `Metasploit`, `Kali Linux`, `Nmap`
+  | **[Wireshark Packet Capture](https://github.com/Aaqib-H/Wireshark-Packet-Capture)** | Using Wireshark to capture, filter, and analyze network packets for security monitoring.          | `Wireshark`, `Ubuntu Linux`
+  | **[Nmap Network Scanning](https://github.com/Aaqib-H/Nmap-Network-Scanning)** | Network vulnerability assessment using Nmap for host discovery, port scanning, OS detection and auditing to identify potential threats.  | `Nmap`, `Bash`
 
 <div id="software_projects">
   <h2 class="software_projects">👨‍💻 Software Projects </h2>
