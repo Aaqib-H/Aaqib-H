@@ -35,8 +35,8 @@ I'm a cybersecurity professional up and coming from a software engineering backg
 
 | Repository      | Description                                                                                                                                                                           | Tools Used
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------
-| **[Metasploit Penetration Testing](https://github.com/Aaqib-H/Metasploit-Penetration-Testing)** | Vulnerability assessment and exploitation using Metasploit to identify and analyze system weaknesses. | `Metasploit`, `Nmap`, `Linux`, `VMware`
-| **[Network Security Analysis](https://github.com/YourUsername/Network-Security-Analysis)** | Projects focused on packet capturing and threat detection with tools like Wireshark and tcpdump.           |
+| **[Metasploit Penetration Testing](https://github.com/Aaqib-H/Metasploit-Penetration-Testing)** | Penetration testing project utilizing Metasploit and Nmap to identify, exploit, and report vulnerabilities. | `Metasploit`, `Nmap`, `Linux`, `VMware`
+| **[Wireshark Packet Capture](https://github.com/Aaqib-H/Wireshark-Packet-Capture)** | A hands-on project using Wireshark to capture, filter, and analyze network packets for security monitoring.          | `Wireshark`, `Ubuntu`
 | **[Compliance Toolkit](https://github.com/YourUsername/Compliance-Toolkit)** | A set of resources for maintaining data protection and security compliance.                                              |
 
 
