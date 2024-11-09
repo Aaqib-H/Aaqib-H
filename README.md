@@ -28,6 +28,20 @@ I'm a cybersecurity professional up and coming from a software engineering backg
   </ul>
 </div>
 
+## 🎯 **Skill Areas**
+| Area                  | Tools & Skills                                                                      |
+|----------------------------|--------------------------------------------------------------------------------|
+| **SIEMs**                  | `Splunk`, `Google Chronicle`                                                   |
+| **Vulnerability Scanners** | `Tenable Nessus`, `QualysGuard`                                                |
+| **Networking**             | `Wireshark`, `tcpdump`, `Nmap`, `Zeek`                                         |
+| **Incident Response**      | `Volatility`, `Magnet RAM Capture`,                                            |
+| **Operating Systems**      | `Kali Linux`, `Ubuntu Linux`, `Windows`, `VMware`                              |
+| **Languages**              | `Python`, `Java`, `SQL`, `JavaScript`, `HTML`, `CSS`                           |
+| **Scripting**              | `Bash`, `Powershell`                                                           |
+| **Security Compliance**    | `PCI-DSS`, `GDPR`, `ISO 27001`                                                 |
+| **Cyber Frameworks**       | `NIST CSF`, `NIST 800-61`                                                      |
+
+
 <div id="cyber_projects">
   <h2 class="cyber_projects">🔐 Cybersecurity Projects </h2>
 
@@ -35,25 +49,9 @@ I'm a cybersecurity professional up and coming from a software engineering backg
 
 | Repository      | Description                                                                                                                                                                           | Tools Used
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------
-| **[Metasploit Penetration Testing](https://github.com/Aaqib-H/Metasploit-Penetration-Testing)** | Penetration testing project utilizing Metasploit and Nmap to identify, exploit, and report vulnerabilities. | `Metasploit`, `Nmap`, `Linux`, `VMware`
-| **[Wireshark Packet Capture](https://github.com/Aaqib-H/Wireshark-Packet-Capture)** | A hands-on project using Wireshark to capture, filter, and analyze network packets for security monitoring.          | `Wireshark`, `Ubuntu`
-| **[Compliance Toolkit](https://github.com/YourUsername/Compliance-Toolkit)** | A set of resources for maintaining data protection and security compliance.                                              |
-
-
-## 🎯 **Skill Areas**
-
-| Area                  | Tools & Skills                                                                      |
-|----------------------------|--------------------------------------------------------------------------------|
-| **SIEMs**                  | `Splunk`, `Google Chronicle`                                                   |
-| **Vulnerability Scanners** | `Tenable Nessus`, `QualysGuard`                                                |
-| **Networking**             | `Wireshark`, `tcpdump`, `Nmap`, `Zeek`                                         |
-| **Incident Response**      | `Volatility`, `Magnet RAM Capture`,                                            |
-| **Operating Systems**      | `Linux`, `Windows`, `VMware`                                                   |
-| **Languages**              | `Python`, `Java`, `SQL`, `JavaScript`, `HTML`, `CSS`                           |
-| **Scripting**              | `Bash`, `Powershell`                                                           |
-| **Security Compliance**    | `PCI-DSS`, `GDPR`, `ISO 27001`                                                 |
-| **Cyber Frameworks**       | `NIST CSF`, `NIST 800-61`                                                      |
-
+| **[Metasploit Penetration Testing](https://github.com/Aaqib-H/Metasploit-Penetration-Testing)** | Penetration testing project utilizing Metasploit and Nmap to identify, exploit, and report vulnerabilities. | `VMware`, `Metasploit`, `Kali Linux`, `Nmap`
+| **[Wireshark Packet Capture](https://github.com/Aaqib-H/Wireshark-Packet-Capture)** | A hands-on project using Wireshark to capture, filter, and analyze network packets for security monitoring.          | `Wireshark`, `Ubuntu Linux`
+| **[Nmap Network Scanning](https://github.com/Aaqib-H/Nmap-Network-Scanning)** | Network vulnerability assessment using Nmap for host discovery, port scanning, OS detection and auditing to identify potential threats.  | `Nmap`, `Bash`
 
 <div id="software_projects">
   <h2 class="software_projects">👨‍💻 Software Projects </h2>
