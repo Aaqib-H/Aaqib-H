@@ -47,7 +47,8 @@ I'm a cybersecurity professional up and coming from a software engineering backg
 
 Explore the repositories below to see some of my work in action, from security audits to network analysis projects and more.
 
-- <h3><a href="https://github.com/Aaqib-H/Google-Cybersecurity-Projects">Google Cybersecurity Projects Repository</a></h3>
+- <h3><a href="https://github.com/Aaqib-H/Google-Cybersecurity-Projects">Google Cybersecurity Projects Repository</a></h3> 
+includes: `Linux` `Python` `SQL` `Security Auditing` `Incident Response` `Documentation`
 
 - <h3>Individual Projects:</h3>
 
