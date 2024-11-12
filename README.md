@@ -47,8 +47,14 @@ I'm a cybersecurity professional up and coming from a software engineering backg
 
 Explore the repositories below to see some of my work in action, from security audits to network analysis projects and more.
 
-- <h3><a href="https://github.com/Aaqib-H/Google-Cybersecurity-Projects">Google Cybersecurity Projects Repository</a></h3> 
-includes: `Linux` `Python` `SQL` `Security Auditing` `Incident Response` `Documentation`
+- <h3><a href="https://github.com/Aaqib-H/Google-Cybersecurity-Projects">Google Cybersecurity Projects Repository</a></h3>
+
+  - [Conducting a Security Audit](https://github.com/Aaqib-H/Google-Cybersecurity-Projects/tree/main/1%20Conducting%20a%20Security%20Audit)<br>
+  - [Incident Response with NIST CSF](https://github.com/Aaqib-H/Google-Cybersecurity-Projects/tree/main/2%20Incident%20Response%20with%20NIST%20CSF)<br>
+  - [Managing File Permissions in Linux](https://github.com/Aaqib-H/Google-Cybersecurity-Projects/tree/main/3%20Managing%20File%20Permissions%20in%20Linux)<br>
+  - [SQL Investigation](https://github.com/Aaqib-H/Google-Cybersecurity-Projects/tree/main/4%20SQL%20Investigation)<br>
+  - [Incident Journal Documentation](https://github.com/Aaqib-H/Google-Cybersecurity-Projects/tree/main/5%20Incident%20Journal%20Documentation)<br>
+  - [Python File Parsing Automation](https://github.com/Aaqib-H/Google-Cybersecurity-Projects/tree/main/6%20Python%20File%20Parsing%20Automation)
 
 - <h3>Individual Projects:</h3>
 
